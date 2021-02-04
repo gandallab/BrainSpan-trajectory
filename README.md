@@ -1,4 +1,6 @@
 # BrainSpan-trajectory
 `BrainSpan-trajectory.ipynb` generates temporal gene expression plots as below from scratch.
 
-![KANSL1](./KANSL1.png) 
+<p align="center">
+<img src="./KANSL1.png" width="500" height="500">
+</p>
